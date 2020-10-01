@@ -1,4 +1,4 @@
-# Flutter in Practice purpose
+# Flutter in Practice
 
 This project can be used as a starter for flutter app development, including a demo app for learning flutter components and a social video app named weiguan which is similar to TikTok. There is also an article [Flutter 移动应用开发指南](https://blog.jaggerwang.net/flutter-mobile-app-develop-tour/) for learning this project.
 
